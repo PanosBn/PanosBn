@@ -11,7 +11,7 @@
 
 - [AutoKG — A framework for weakly supervised data annotation, Entity Recognition and Relation Classification model training](https://github.com/PanosBn/auto-kg) ✅ 
 - [CodeClones — Tracking the software evolution of jQuery versions](https://github.com/PanosBn/Code-Clones) ✅
-- [Embedwise - A model agnostic text embedding library]
+- Embedwise - A model agnostic text embedding library ⏳
 
 
 ### 🛠 Tech Skills
