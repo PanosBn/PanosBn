@@ -7,12 +7,14 @@
 - 💬 NLP enthusiast!
 - 🎹 I (try to) make music with my Arturia keyboard, hope to record something one day?!
 
-### 🚀 Projects
+### 
 
-- [AutoKG — A framework for weakly supervised data annotation, Entity Recognition and Relation Classification model training](https://github.com/PanosBn/auto-kg) ✅ 
-- [CodeClones — Tracking the software evolution of jQuery versions](https://github.com/PanosBn/Code-Clones) ✅
-- Embedwise - A model agnostic text embedding library ⏳
-
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span> 🚀 Projects
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/PanosBn/auto-kg">auto-kg</a></span>  <span style="color: #808080; text-decoration-color: #808080">    — A framework for weakly supervised data annotation, Entity Recognition and Relation Classification model training</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="⏳">Embedwise</a></span>  <span style="color: #808080; text-decoration-color: #808080">  - A model agnostic text embedding library</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/PanosBn/Code-Clones">CodeClones</a></span>  <span style="color: #808080; text-decoration-color: #808080"> — Tracking the software evolution of jQuery versions</span>
+</pre>  
 
 ### 🛠 Tech Skills
 
@@ -35,3 +37,5 @@
 - **Proactive Leadership**: Highly proactive and considerate, I anticipate needs and take initiative, consistently demonstrating foresight and attention to detail in every task and interaction.
 - **Remote Work**: Confidently independent, I excel in remote work environments, seamlessly managing tasks and projects with minimal supervision. My adaptability ensures consistent performance and reliability, even from a distance.
 - **Accountability**: Take full responsibility for designated areas, ensuring both personal productivity and collective success.
+
+
