@@ -3,7 +3,7 @@
 ### 🙋‍♂️ About
 
 - Originally from Greece 🇬🇷, currently living in the Netherlands 🇳🇱
-- 💎 Data Scientist/Software Engineer. I really love doing a bit of both 💪🏻
+- 💎 Software Engineer/Data Scientist. I really love doing a bit of both 💪🏻
 - 💬 NLP enthusiast!
 - 🎹 I (try to) make music with my Arturia keyboard, hope to record something one day?!
 
