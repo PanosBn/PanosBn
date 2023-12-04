@@ -25,6 +25,7 @@
 - Vector Databases
 - SQL/SPARQL
 - APIs (REST, GraphQL)
+- Flask
 - Node.js
 - MongoDB, MySQL
 - Docker/Kubernetes
