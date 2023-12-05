@@ -11,10 +11,12 @@
 
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span> 🚀 Projects
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/PanosBn/auto-kg">auto-kg</a></span>  <span style="color: #808080; text-decoration-color: #808080">    — A framework for weakly supervised data annotation, Entity Recognition and Relation Classification model training</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="⏳">Embedwise</a></span>  <span style="color: #808080; text-decoration-color: #808080">  - A model agnostic text embedding library</span>
-<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/PanosBn/Code-Clones">CodeClones</a></span>  <span style="color: #808080; text-decoration-color: #808080"> — Tracking the software evolution of jQuery versions</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/PanosBn/auto-kg">auto-kg</a></span>  <span style="color: #808080; text-decoration-color: #808080">       — A framework for weakly supervised data annotation, Entity Recognition and Relation Classification model training</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/PanosBn/ner-amplifier">NER-amplifier</a></span>  <span style="color: #808080; text-decoration-color: #808080"> - A data augmentation library for the CONLL03 Entity Recognition task.</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="⏳">Embedwise</a></span>  <span style="color: #808080; text-decoration-color: #808080">     - A model agnostic text embedding library</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/PanosBn/Code-Clones">CodeClones</a></span>  <span style="color: #808080; text-decoration-color: #808080">    — Tracking the software evolution of jQuery versions</span>
 </pre>  
+
 
 ### 🛠 Tech Skills
 
